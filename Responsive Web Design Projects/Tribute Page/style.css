@@ -1,0 +1,42 @@
+#main {
+  margin-left: 10%;
+  margin-right: 10%;
+  background-color: #d8d7d7;
+  padding-top: 1%;
+}
+
+#image {
+  max-width: 100%;
+  padding: 30px;
+  width: 100%;
+  height: inherit;
+  margin: auto;
+  display: block;
+}
+
+#image-div {
+}
+
+#title {
+  margin-top: 5%;
+}
+
+#img-caption {
+  margin-top: -20px;
+}
+
+#tribute-info {
+  margin-top: 20px;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+#quote {
+  font-family: "Georgia", serif;
+  font-style: italic;
+  margin-top: 30px;
+}
+
+#t-link {
+  padding-bottom: 20px;
+}
